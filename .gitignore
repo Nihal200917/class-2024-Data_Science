@@ -3,3 +3,9 @@
 .RData
 .Ruserdata
 *.Rproj
+
+Counties_files
+
+Counties.qmd
+
+Counties.html
